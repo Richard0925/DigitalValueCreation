@@ -1,0 +1,105 @@
+Department,Job title,Salary lower,Salary upper,Weekly hours
+national administration,National Finance & Administration Manager,55915.0,81415.0,50
+national administration,National Tax Manager,not found,not found,50
+national administration,Data Scientist,58845.0,76665.0,40
+national administration,National Finance & Administration Team Leader,48515.0,55885.0,40
+national administration,National Administration Technical Analyst,48515.0,55885.0,40
+national administration,National Tax Specialist,not found,not found,40
+national administration,National Administration Analyst,42435.0,46580.0,not found
+national administration,Personal Assistant - National  Administration,33035.0,38580.0,40
+national administration,National  Administration Assistant,33035.0,38580.0,40
+national administration,Administration Support Assistant,22980.0,28270.0,40
+national administration,National Administration Apprentice,1122.3333333333333,1941.3333333333333,40
+national administration,Data Protection Team Leader,48515.0,55885.0,40
+national administration,Data Protection Analyst,42435.0,46580.0,40
+national administration,Data Protection Assistant,33035.0,38580.0,40
+regional administration,Property Assistant,29615.0,40510.0,40
+regional administration,Logistics Assistant,29615.0,40510.0,40
+regional administration,Trading Assistant,29615.0,40510.0,40
+regional administration,Store Operations Assistant,29615.0,40510.0,40
+regional administration,Regional Administration Personal Assistant,29615.0,40510.0,40
+regional administration,Administration Support Assistant ,21845.0,31790.0,40
+regional administration,Regional Administration Apprentice,1122.3333333333333,1941.3333333333333,40
+national buying,National Buying Director,not found,not found,not found
+national buying,National Buying Manager,55915.0,81415.0,50
+national buying,National Buying Analyst,42435.0,46580.0,40
+national buying,Pricing Analyst,42435.0,46580.0,40
+national buying,Pricing Assistant,33035.0,38580.0,40
+national buying,Personal Assistant - National Buying Department,33035.0,38580.0,40
+national buying,National Buying Assistant,33035.0,38580.0,40
+national buying,National Buying Administration Assistant,22980.0,28270.0,40
+national buying,National Buying Office Administrator,21845.0,28270.0,40
+national buying,National Buying Apprentice,1538.3333333333333,1941.3333333333333,40
+national buying,National Project Manager,55915.0,81415.0,50
+national buying,National Project Specialist,33165.0,47990.0,40
+corporate responsibility,Corporate Responsibility Manager,55915.0,81415.0,50
+corporate responsibility,Corporate Responsibility Assistant,33035.0,38580.0,40
+customer service,Customer Service  Manager,55915.0,81415.0,50
+customer service,Customer Service Assistant Manager,47965.0,53125.0,50
+customer service,Customer Service Project Analyst,42435.0,46580.0,40
+customer service,Forecasting & Demand Analyst,42435.0,46580.0,40
+customer service,Customer Service Team Leader ,33035.0,38580.0,40
+customer service,Customer Service Advisor,26457.600000000002,32073.6,40
+ecommerce,eCommerce Senior Manager,84890.0,105965.0,50
+ecommerce,eCommerce Manager,55915.0,81415.0,50
+ecommerce,eCommerce Team Leader,48515.0,55885.0,40
+ecommerce,eCommerce Senior Analyst,55915.0,72530.0,40
+ecommerce,eCommerce Analyst,48515.0,55885.0,40
+ecommerce,eCommerce Associate Analyst,42435.0,46580.0,40
+ecommerce,  eCommerce Specialist ,33165.0,47990.0,40
+ecommerce,eCommerce Assistant ,33035.0,38580.0,40
+ecommerce,eCommerce Administrator,22980.0,28270.0,40
+global business coordination,GBC Director,not found,not found,not found
+global business coordination,GBC Senior Manager,84890.0,105965.0,50
+global business coordination,GBC Manager,55915.0,81415.0,50
+global business coordination,GBC Senior Analyst,55915.0,72530.0,40
+global business coordination,GBC Analyst,48515.0,55885.0,40
+global business coordination,GBC Associate Analyst,42435.0,46580.0,40
+global business coordination,GBC Specialist,33165.0,47990.0,40
+global business coordination,GBC Personal Assistant,33035.0,38580.0,40
+global business coordination,GBC Assistant,33035.0,38580.0,40
+global business coordination,GBC Office Administrator,22980.0,28270.0,40
+hr,HR Manager,46000.0,81415.0,50
+hr,HR Senior Analyst,55915.0,72530.0,40
+hr,HR Team Leader,48515.0,55885.0,40
+hr,HR Technical Analyst,48515.0,55885.0,40
+hr,HR Analyst,42435.0,46580.0,40
+hr,HR Assistant,30575.0,40510.0,40
+hr,HR Administration Support Assistant,26185.0,30575.0,40
+it,National IT Senior Manager,84890.0,105965.0,50
+it,National IT Manager,55915.0,81415.0,50
+it,National IT Senior Analyst,55915.0,72530.0,40
+it,National IT Analyst,48515.0,55885.0,40
+it,National IT Specialist ,33165.0,47990.0,40
+it,National IT Assistant,33035.0,38580.0,40
+it,National IT Technician,28265.0,31590.0,40
+it,National IT Apprentice,1122.3333333333333,1941.3333333333333,40
+marketing communications,Marketing & Communications Manager,55915.0,81415.0,50
+marketing communications,Marketing & Communications Assistant,33035.0,38580.0,40
+merchandising category,Merchandising Manager,55915.0,81415.0,50
+merchandising category,Merchandising Assistant,33035.0,38580.0,40
+merchandising category,Category Analyst,42435.0,46580.0,40
+merchandising category,Category Assistant,33035.0,38580.0,40
+property,Regional Property Director,not found,not found,50
+property,National Property Manager,55915.0,81415.0,50
+property,Regional Property Manager,44000.0,81415.0,50
+property,National Property Assistant,33035.0,38580.0,40
+property,Regional Property Assistant,29615.0,40510.0,not found
+supply chain management,Supply Chain Manager,55915.0,81415.0,50
+supply chain management,Supply Chain Analyst,42435.0,46580.0,40
+supply chain management,Supply Chain Assistant,33035.0,38580.0,40
+supply chain management,Supply Chain Co-ordinator,33035.0,38580.0,40
+supply chain management,Supply Chain Administrator,22980.0,28270.0,40
+supply chain management,Customs Manager,55915.0,81415.0,50
+supply chain management,Customs Analyst,42435.0,46580.0,40
+supply chain management,Customs Assistant,33035.0,38580.0,40
+quality assurance,Quality Assurance Director,not found,not found,not found
+quality assurance,Quality Assurance Manager,55915.0,81415.0,50
+quality assurance,Quality Assurance Assistant,33035.0,38580.0,40
+quality assurance,Product Technologist,42435.0,46580.0,40
+quality assurance,Taste Kitchen Team Leader,42435.0,46580.0,40
+quality assurance,Sampling Chef,31260.0,37135.0,40
+quality assurance,Sampling Assistant,26440.0,32030.0,40
+quality control,Quality Control Leader,47830.0,51945.0,48
+quality control,Quality Control Deputy,4160.0,19063.199999999997,20
+quality control,Quality Control Assistant,13800.8,17763.199999999997,20
